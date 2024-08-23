@@ -12,11 +12,11 @@ public class Desarrollador extends Empleado{
     
     @Override
     public void trabajar() {
-        System.out.println(nombre + " está programando en un lenguaje de " + lenguajeProgramacion + ".");
+        System.out.println( " está programando en un lenguaje de " + lenguajeProgramacion + ".");
     }
 
     // Sobrecarga del método trabajar
     public void trabajar(String proyecto) {
-        System.out.println(nombre + " está trabajando en el proyecto de: " + proyecto + " usando " + lenguajeProgramacion + ".");
+        System.out.println( " está trabajando en el proyecto de: " + proyecto + " usando " + lenguajeProgramacion + ".");
     }
 }
