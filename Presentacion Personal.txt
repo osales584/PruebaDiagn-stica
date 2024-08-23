@@ -1,0 +1,9 @@
+Nombre y Apellido: Williams Palacios
+
+Grado: 5.to perito
+
+Codigo técnico: IN5BV
+
+Carnet: 2020-586
+
+Ejercicio: 2
